@@ -19,8 +19,8 @@
 #include "esp_spiffs.h"
 
 #define PERF  // some stats about where we spend our time
-#include "src/emu.h"
-#include "src/video_out.h"
+#include "emu.h"
+#include "video_out.h"
 
 // esp_8_bit
 // Atari 8 computers, NES and SMS game consoles on your TV with nothing more than a ESP32 and a sense of nostalgia
